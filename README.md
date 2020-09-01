@@ -1,5 +1,5 @@
-# Zoom Automation
-A python script that automatically joins a zoom meeting based on your timetable.
+# Zoom Meetings Automation
+A python script that automatically joins a zoom meeting based on your schedule.
 
 ## What does it do?
 It performs the following processes:
